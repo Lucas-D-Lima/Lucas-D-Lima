@@ -1,11 +1,13 @@
-# Olá caro visitante 👋
+# Hello dear visitor 👋
 
-## Meu nome é Lucas, e este é meu Github, obrigado por aparecer aqui
+## My name is Lucas, and this is my Github, thanks for showing up here
 
-### Um pouco sobre mim:
-Comecei a 'programar' com 12 para criar um bot para meu servidor no discord, porem não deu muito certo ja que não sabia muito, migrei mais tarde para JS, porem por procrastinar não evolui muito, porem, incrivelmente consigo criar alguns programas com muito esforço, e não, eu não sei centralizar div no css sem usar o google, assim como você
+Portuguese version [🇧🇷](/languages/ptREADME.md)
 
-### Algumas coisas que eu sei ou estou estudando
- - Estudando <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> 
- - Conhecimento breve em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>
- - Pretendo estudar Cloud em geral, e melhorar tambem o que eu tenho conhecimento
+### A little about myself
+I started 'programming' with 12 to create a bot for my discord server, but it didn't work out very well since I didn't know much, I later migrated to JS, but because of procrastination it doesn't evolve much, however, incredibly I can create some programs with a lot of effort, and no, I don't know how to center div in css without using google, just like you
+
+### Some things I know or am studying
+ - Studying <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/> 
+ - Knowledge on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>
+ - I intend to study Cloud in general, and also improve what I have knowledge
